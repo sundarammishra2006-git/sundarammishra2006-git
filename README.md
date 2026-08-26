@@ -103,7 +103,7 @@ An HTML/JS workout tracker with resistance band & bodyweight exercise options, e
 <img src="https://github-profile-trophy.vercel.app/?username=sundarammishra2006-git&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </div>
 
-<br> --> -->
+<br> -->
 
 ## 💬 Random Dev Quote
 
