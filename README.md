@@ -1,31 +1,45 @@
-# Hi, I'm Sundaram 👋
+# Java + DSA Learning Curriculum
 
-### 👨‍💻 Software Engineering Student | Aspiring Security Engineer
-I focus on building robust software and exploring the intersection of **Web Development** and **Cybersecurity**. Currently sharpening my skills in performance-oriented programming and secure system design.
+A self-directed, structured curriculum for learning Java and Data Structures & Algorithms from the ground up — built as a series of single-page HTML lessons.
 
----
+## About
 
-### 🚀 Technical Arsenal
+This repo tracks my journey through Java fundamentals, OOP, and DSA. Each lesson is a standalone, styled HTML file (dark theme, sidebar navigation) with:
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `C++`, `JavaScript`, `HTML5`, `CSS3` |
-| **Backend** | `Node.js`, `Express`, `MongoDB` |
-| **Security** | `Threat Analysis`, `Vulnerability Detection`, `Incident Response` |
-| **Tools** | `Git`, `GitHub`, `Linux`, `VS Code` |
+- Bilingual explanations (Hinglish + English)
+- Verified, runnable code with actual compiled output shown
+- Practice questions at the end of each lesson
 
----
+## Curriculum Structure
 
-### 📈 Current Focus
-- 🏗️ Developing secure, full-stack web applications.
-- 🧪 Solving complex algorithmic problems in **C++**.
-- 🛡️ Applying professional cybersecurity frameworks to modern dev workflows.
+The course is organized into phases: Java basics → Control flow → Methods/Arrays/Strings → OOP → DSA fundamentals.
 
----
+## Lessons
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=ko-fi&logoColor=white)](YOUR_PORTFOLIO_URL)
+| Lesson | Topics |
+|--------|--------|
+| 1 | JVM/JDK/JRE, first program, variables, data types, operators, casting |
+| 2 | Control flow: if-else, switch, for/while/do-while, break/continue, nested loops, patterns |
+| 3 | Methods & overloading, recursion, 1D/2D arrays, linear search, bubble sort, Strings/StringBuilder |
+| 4 | OOP: class/object/constructor, encapsulation, inheritance, polymorphism, abstraction/interfaces, static vs instance, final, exception handling |
+| 5+ | DSA fundamentals (in progress) |
 
----
-*"Code is like humor. When you have to explain it, it’s bad."*
+## How to Use
+
+1. Clone the repo
+2. Open any lesson's `.html` file in a browser
+3. Use the sidebar to navigate within a lesson
+4. Work through the practice questions at the end
+
+## Tech Stack
+
+- Plain HTML/CSS/JS (no build tools required)
+- Java (for code examples and practice problems)
+
+## Status
+
+🚧 Actively in progress — new lessons added as I work through the curriculum.
+
+## License
+
+Personal learning project — feel free to fork and adapt for your own studies.
