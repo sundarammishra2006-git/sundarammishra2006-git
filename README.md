@@ -6,7 +6,6 @@ A self-directed, structured curriculum for learning Java and Data Structures & A
 
 This repo tracks my journey through Java fundamentals, OOP, and DSA. Each lesson is a standalone, styled HTML file (dark theme, sidebar navigation) with:
 
-- Bilingual explanations (Hinglish + English)
 - Verified, runnable code with actual compiled output shown
 - Practice questions at the end of each lesson
 
